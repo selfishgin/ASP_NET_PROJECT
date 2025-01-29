@@ -1,14 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ECommerce.Application.Abstract;
+using Microsoft.AspNetCore.Mvc;
 
-namespace ECommerce.WebUI.Controllers
+namespace ECommerce.WebUI.Controllers;
+
+public class CategoryController(ICategoryService categoryService) : Controller
 {
-	public class CategoryController : Controller
-	{
-		private readonly ICategoryService categoryService;
+	private readonly ICategoryService _categoryService = categoryService;
 
-		public IActionResult Index()
-		{
-			var category = _categoryService.GetAll();
-		}
+	public IActionResult Index()
+	{
+		var category = _categoryService.GetAll();
+		return Ok(category);
 	}
 }

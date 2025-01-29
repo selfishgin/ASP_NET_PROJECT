@@ -14,13 +14,15 @@ builder.Services.AddSession();
 builder.Services.AddScoped<ICategoryDal, EFCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 
+#region Database registration
+
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<NortWindDbContext>(opt =>
 {
     opt.UseSqlServer(conn);
 });
-
+#endregion
 
 
 var app = builder.Build();

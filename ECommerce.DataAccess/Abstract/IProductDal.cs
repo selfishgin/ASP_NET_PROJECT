@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ECommerce.Domain.Entities;
+using ECommerce.Repository.DataAccess;
 
-namespace ECommerce.DataAccess.Abstract
+namespace ECommerce.DataAccess.Abstact;
+
+public interface IProductDal : IEntityRepository<Product>
 {
-	public interface IProductDal : In
-	{
-	}
+
 }
