@@ -13,3 +13,8 @@ C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\obj\Debug\net8.
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.pdb
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.genruntimeconfig.cache
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\obj\Debug\net8.0\ref\ECommerce.DataAccess.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Repository.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Repository.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.DataAccess\obj\Debug\net8.0\ECommerc.6DA24EC5.Up2Date

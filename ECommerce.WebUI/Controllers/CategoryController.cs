@@ -7,6 +7,8 @@ public class CategoryController(ICategoryService categoryService) : Controller
 {
 	private readonly ICategoryService _categoryService = categoryService;
 
+
+
 	public IActionResult Index()
 	{
 		var category = _categoryService.GetAll();

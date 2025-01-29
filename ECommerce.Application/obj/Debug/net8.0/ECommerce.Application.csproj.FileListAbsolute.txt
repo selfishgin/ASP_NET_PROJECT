@@ -13,3 +13,10 @@ C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\obj\Debug\net8
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.pdb
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.genruntimeconfig.cache
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\obj\Debug\net8.0\ref\ECommerce.Application.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.DataAccess.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.Repository.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.DataAccess.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\bin\Debug\net8.0\ECommerce.Repository.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Application\obj\Debug\net8.0\ECommerc.670E0CBE.Up2Date

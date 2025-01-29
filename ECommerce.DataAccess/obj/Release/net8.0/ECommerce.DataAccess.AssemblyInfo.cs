@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4da8aab7443ca0c7748e27d60e2d815d05ad9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea040e0073f2006f20364b3e30bcb50e3d25b953")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

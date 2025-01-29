@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\taghelpers\\pagingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\taghelpers\\pagingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\ecommerce.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\ecommerce.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.application\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.application\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.application\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.application\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\concrete\\efentityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\concrete\\efentityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\concrete\\efentityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\concrete\\efentityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A5E6233-D517-4FD5-A65E-A5EF5348E9EE}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.domain\\models\\shoppingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +91,24 @@
       "RelativeMoniker": "D:0:0:{84B10118-1B91-4BC8-9317-7AAACBC3F442}|ECommerce.Repository\\ECommerce.Repository.csproj|solutionrelative:ecommerce.repository\\infrastructure\\entityframeworkaccess\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\concrete\\efentityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\concrete\\efentityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.application\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAD356-D070-468E-AF1E-C09D0DD74B64}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84B10118-1B91-4BC8-9317-7AAACBC3F442}|ECommerce.Repository\\ECommerce.Repository.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.repository\\infrastructure\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B10118-1B91-4BC8-9317-7AAACBC3F442}|ECommerce.Repository\\ECommerce.Repository.csproj|solutionrelative:ecommerce.repository\\infrastructure\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC9027F5-F06F-4906-A2CA-DD0513D85F61}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\husey_ij91\\desktop\\asp_net_project\\ecommerce.dataaccess\\context\\nortwinddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +154,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:12:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:41:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T07:36:34.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagingTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:15:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Program.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:05:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T06:57:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:36:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Concrete\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:17:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:13:30.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:39:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T05:49:21.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ECommerce.WebUI",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\ECommerce.WebUI.csproj",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\ECommerce.WebUI.csproj",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\ECommerce.WebUI.csproj",
+              "RelativeToolTip": "ECommerce.WebUI\\ECommerce.WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T07:14:58.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T05:54:48.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IProductDal.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\Abstract\\IProductDal.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Abstract\\IProductDal.cs",
@@ -119,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "EFCategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\Concrete\\EFEntityFramework\\EFCategoryDal.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Concrete\\EFEntityFramework\\EFCategoryDal.cs",
@@ -132,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "ICategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\Abstract\\ICategoryDal.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Abstract\\ICategoryDal.cs",
@@ -145,7 +362,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryListViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:41:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:57:51.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "EFEntityRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Repository\\Infrastructure\\EntityFrameworkAccess\\EFEntityRepositoryBase.cs",
               "RelativeDocumentMoniker": "ECommerce.Repository\\Infrastructure\\EntityFrameworkAccess\\EFEntityRepositoryBase.cs",
@@ -158,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Abstracts\\IEntity.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Abstracts\\IEntity.cs",
@@ -171,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Models\\Cart.cs",
@@ -184,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "CartLine.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Models\\CartLine.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Models\\CartLine.cs",
@@ -197,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ShoppingDetails.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Models\\ShoppingDetails.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Models\\ShoppingDetails.cs",
@@ -210,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "EFProductDal.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\Concrete\\EFEntityFramework\\EFProductDal.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Concrete\\EFEntityFramework\\EFProductDal.cs",
@@ -223,20 +466,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Abstract\\ICategoryService.cs",
               "RelativeDocumentMoniker": "ECommerce.Application\\Abstract\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Abstract\\ICategoryService.cs",
               "RelativeToolTip": "ECommerce.Application\\Abstract\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T08:39:21.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Application\\Concrete\\CategoryService.cs",
               "RelativeDocumentMoniker": "ECommerce.Application\\Concrete\\CategoryService.cs",
@@ -244,12 +487,11 @@
               "RelativeToolTip": "ECommerce.Application\\Concrete\\CategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T08:42:07.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:42:07.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "IEntityRepository.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Repository\\Infrastructure\\IEntityRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.Repository\\Infrastructure\\IEntityRepository.cs",
@@ -257,51 +499,11 @@
               "RelativeToolTip": "ECommerce.Repository\\Infrastructure\\IEntityRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:23:07.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T07:23:07.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T08:57:51.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Program.cs",
-              "RelativeToolTip": "ECommerce.WebUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:02:48.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\appsettings.json",
-              "RelativeToolTip": "ECommerce.WebUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T09:01:42.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "ECommerce.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
@@ -309,11 +511,12 @@
               "RelativeToolTip": "ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T07:20:18.506Z"
+              "WhenOpened": "2025-01-27T07:20:18.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "NortWindDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.DataAccess\\Context\\NortWindDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Context\\NortWindDbContext.cs",
@@ -325,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "ECommerce.Repository.csproj",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Repository\\ECommerce.Repository.csproj",
               "RelativeDocumentMoniker": "ECommerce.Repository\\ECommerce.Repository.csproj",
@@ -333,11 +536,12 @@
               "RelativeToolTip": "ECommerce.Repository\\ECommerce.Repository.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T07:22:16.523Z"
+              "WhenOpened": "2025-01-27T07:22:16.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Product.cs",
@@ -349,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Category.cs",
@@ -361,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "NortWindDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.Domain\\Entities\\NortWindDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\NortWindDbContext.cs",
@@ -373,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "NortWindDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Husey_ij91\\Desktop\\ASP_NET_PROJECT\\ECommerce.WebUI\\Entities\\NortWindDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Entities\\NortWindDbContext.cs",

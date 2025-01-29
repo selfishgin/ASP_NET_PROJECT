@@ -4,6 +4,8 @@ using ECommerce.Application.Abstract;
 using ECommerce.DataAccess.Concrete.EFEntityFramework;
 using ECommerce.DataAccess.Context;
 using Microsoft.EntityFrameworkCore;
+using ECommerce.DataAccess.Abstact;
+using ECommerce.DataAccess.Concerete.EFEntityFramework;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,9 @@ builder.Services.AddSession();
 
 builder.Services.AddScoped<ICategoryDal, EFCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+builder.Services.AddScoped<IProductDal, EFProductDal>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 #region Database registration
 

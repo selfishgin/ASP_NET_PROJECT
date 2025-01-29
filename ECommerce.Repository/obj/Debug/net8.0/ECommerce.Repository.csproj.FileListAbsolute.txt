@@ -13,3 +13,6 @@ C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\obj\Debug\net8.
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\obj\Debug\net8.0\ECommerce.Repository.pdb
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\obj\Debug\net8.0\ECommerce.Repository.genruntimeconfig.cache
 C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\obj\Debug\net8.0\ref\ECommerce.Repository.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\Husey_ij91\Desktop\ASP_NET_PROJECT\ECommerce.Repository\obj\Debug\net8.0\ECommerc.A7A3BF9F.Up2Date

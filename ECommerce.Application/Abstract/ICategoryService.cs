@@ -2,7 +2,7 @@
 
 namespace ECommerce.Application.Abstract;
 
-public class ICategoryService
+public interface ICategoryService
 {
 	List<Category> GetAll(); 
 }
