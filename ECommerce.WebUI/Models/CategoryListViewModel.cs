@@ -6,5 +6,5 @@ namespace ECommerce.WebUI
 	{
 		public List<Category> Categories { get; set; }
         public int CurrentCategory { get; set; }
-    }
+    }	
 }

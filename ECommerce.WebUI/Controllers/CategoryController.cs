@@ -14,4 +14,6 @@ public class CategoryController(ICategoryService categoryService) : Controller
 		var category = _categoryService.GetAll();
 		return Ok(category);
 	}
+
+
 }
