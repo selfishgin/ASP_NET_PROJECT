@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.WebUI", "ECommerce.WebUI\ECommerce.WebUI.csproj", "{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.WebUI", "ECommerce.WebUI\ECommerce.WebUI.csproj", "{3CC859A8-B8C7-4EAC-81B4-5008A29BCCB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Domain", "ECommerce.Domain\ECommerce.Domain.csproj", "{4A5E6233-D517-4FD5-A65E-A5EF5348E9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Domain", "ECommerce.Domain\ECommerce.Domain.csproj", "{4A5E6233-D517-4FD5-A65E-A5EF5348E9EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Repository", "ECommerce.Repository\ECommerce.Repository.csproj", "{84B10118-1B91-4BC8-9317-7AAACBC3F442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Repository", "ECommerce.Repository\ECommerce.Repository.csproj", "{84B10118-1B91-4BC8-9317-7AAACBC3F442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DataAccess", "ECommerce.DataAccess\ECommerce.DataAccess.csproj", "{CC9027F5-F06F-4906-A2CA-DD0513D85F61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.DataAccess", "ECommerce.DataAccess\ECommerce.DataAccess.csproj", "{CC9027F5-F06F-4906-A2CA-DD0513D85F61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Application", "ECommerce.Application\ECommerce.Application.csproj", "{94FAD356-D070-468E-AF1E-C09D0DD74B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Application", "ECommerce.Application\ECommerce.Application.csproj", "{94FAD356-D070-468E-AF1E-C09D0DD74B64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

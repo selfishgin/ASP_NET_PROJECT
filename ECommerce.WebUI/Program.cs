@@ -7,6 +7,8 @@ using Microsoft.EntityFrameworkCore;
 using ECommerce.DataAccess.Abstact;
 using ECommerce.DataAccess.Concerete.EFEntityFramework;
 using ECommerce.WebUI.Services;
+using ECommerce.WebUI.Entities;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,11 +28,21 @@ builder.Services.AddScoped<IProductService, ProductService>();
 
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<NortWindDbContext>(opt =>
+//builder.Services.AddDbContext<NortWindDbContext>(opt =>
+//{
+//    opt.UseSqlServer(conn);
+//});
+
+builder.Services.AddDbContext<CustomIdentityDbContext>(opt =>
 {
     opt.UseSqlServer(conn);
 });
+
+
 #endregion
+builder.Services.AddIdentity<CustomIdentityUser, CustomIdentityRole>()
+    .AddEntityFrameworkStores<CustomIdentityDbContext>()
+    .AddDefaultTokenProviders();
 
 
 var app = builder.Build();
@@ -51,6 +63,6 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Product}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Register}/{id?}");
 
 app.Run();
